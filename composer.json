@@ -6,7 +6,7 @@
     "ext-curl": "*",
     "ext-json": "*",
     "php": "^5 || ^7",
-    "netresearch/jsonmapper": "^0.11.0"
+    "netresearch/jsonmapper": "*"
   },
   "require-dev": {
     "phpunit/phpunit": "~5.7",
